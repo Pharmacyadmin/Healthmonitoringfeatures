@@ -43,9 +43,8 @@ To run this project locally for development and testing:
 3. Install dependencies:
    ```bash
       npm install
-
 ### Running the Development Server
-  Start the local dev Env:
+4. Start the local dev Env:
     ```bash
      npm run dev
      
