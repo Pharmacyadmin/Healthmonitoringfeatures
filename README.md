@@ -46,9 +46,10 @@ To run this project locally for development and testing:
 
 ### Running the Development Server
   Start the local dev Env:
+  
   ```bash
      npm run dev
-### Open your browser and navigate to the local server URL provided in your terminal (typically http://localhost:5173).
+ Open your browser and navigate to the local server URL provided in your terminal (typically http://localhost:5173).
 
 ## Author
-* Omid Yazdanpanah
+Omid Yazdanpanah
