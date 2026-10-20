@@ -37,3 +37,18 @@ To run this project locally for development and testing:
 1. Clone the repository:
    ```bash
    git clone [https://github.com/Pharmacyadmin/Healthmonitoringfeatures.git](https://github.com/Pharmacyadmin/Healthmonitoringfeatures.git)
+2. Navigate to project directory:
+   ```bash
+      cd Healthmonitoringfeatures
+3. Install dependencies:
+   ```bash
+      npm install
+
+###Running the Development Server
+* Start the local dev Env:
+  ```bash
+     npm run dev
+###Open your browser and navigate to the local server URL provided in your terminal (typically http://localhost:5173).
+
+##Author
+* Omid Yazdanpanah
